@@ -1,0 +1,30 @@
+<template name="dashboard">
+	<!-- START HEADER -->
+	<nav>
+		<div class="nav-wrapper">
+      <a href="#" class="brand-logo center">DSS (Created by: Насця Кiр'янава)</a>
+      <ul id="nav-mobile" class="right hide-on-med-and-down">
+        <li><a href="#" data-action="add-report">New report</a></li>
+        <li><a href="#" data-action="reports-list">List</a></li>
+        <li><a href="/logout">Logout</a></li>
+      </ul>
+    </div>
+	</nav>
+	<!-- END HEADER -->
+	<!-- START CONTENT -->
+	<div class="container">
+		{{#if listState}}
+			{{> list}}
+		{{/if}}
+
+		{{#if builderState}}
+			{{> builder}}
+		{{/if}}
+
+		{{#if detailsState}}
+			{{> details}}
+		{{/if}}
+	</div>
+	<!-- END CONTENT -->
+</template>
+	

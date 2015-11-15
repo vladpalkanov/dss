@@ -1,0 +1,22 @@
+<template name="list">
+	<div class="row">
+		{{#unless reports}}
+			<div class="valign-wrapper center" style="height: 400px">
+				<h5 class="valign col s12">There is no reports created. You should create one.</h5>
+			</div>
+		{{/unless}}
+		{{#if reports}}
+			<ul class="collection with-header z-depth-1">
+				<li class="collection-header">
+					<h4>Reports:</h4>
+				</li>
+				{{#each reports}}
+					<li class="collection-item">
+						<a href="#" data-reportId="{{_id}}" class="center" data-action="open-report">{{name}}</a>
+					</li>
+				{{/each}}
+			</ul>
+		{{/if}}
+		<a class="btn-floating btn-large waves-effect waves-light red" data-action="add-report"><i class="mdi mdi-plus"></i></a>
+	</div>
+</template>

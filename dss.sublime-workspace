@@ -1,0 +1,1725 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"f",
+				"fn	function() { return; }"
+			],
+			[
+				"get",
+				"get (fn) [C]"
+			],
+			[
+				"me",
+				"methods (fn) [S]"
+			],
+			[
+				"arg",
+				"argv"
+			],
+			[
+				"ar",
+				"argc"
+			],
+			[
+				"cellPosition",
+				"cellPositionY"
+			],
+			[
+				"cellPosit",
+				"cellPositionY"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"bound",
+				"compareBoundaryPoints(${0:how}, sourceRange)	Range"
+			],
+			[
+				"n",
+				"null"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"selectedCam",
+				"selectedCampaignSVG"
+			],
+			[
+				"to",
+				"touchend	Event"
+			],
+			[
+				"bo-cal",
+				"bo-calendar-form"
+			],
+			[
+				"condir",
+				"console.dir(object);"
+			],
+			[
+				"oldPeir",
+				"oldPeriods"
+			],
+			[
+				"ng-mouse",
+				"ng-mouseleave	AngularJS"
+			],
+			[
+				"bo-cla",
+				"bo-calendar-events"
+			],
+			[
+				"predictions",
+				"predictionsCategories"
+			],
+			[
+				"predictio",
+				"predictionsCategories"
+			],
+			[
+				"checked",
+				"checkedIds"
+			],
+			[
+				"va",
+				"valueOf()	String"
+			],
+			[
+				"cu",
+				"cur:a	cursor:auto"
+			],
+			[
+				"reportsApi",
+				"reportsApiUrl"
+			],
+			[
+				"reportServer",
+				"reportsServerUrl"
+			],
+			[
+				"border-b",
+				"border-bottom-left-radius"
+			],
+			[
+				"border-le",
+				"border-top-left-radius"
+			],
+			[
+				"z-",
+				"z-index"
+			],
+			[
+				"s",
+				"services/"
+			],
+			[
+				"purchas",
+				"purchasedPrice"
+			],
+			[
+				"visit",
+				"visits_events"
+			],
+			[
+				"toggle",
+				"toggleAllItems"
+			],
+			[
+				"console",
+				"console.trace(label);"
+			],
+			[
+				"_whe",
+				"_where	Underscore.js where"
+			],
+			[
+				"category",
+				"categoryId"
+			],
+			[
+				"_re",
+				"_reject	Underscore.js reject"
+			],
+			[
+				"p",
+				"public/"
+			],
+			[
+				"createServer",
+				"http.createServer(requestListener);"
+			],
+			[
+				"createRead",
+				"fs.createReadStream(path, options);"
+			],
+			[
+				"_where",
+				"_where	Underscore.js where"
+			],
+			[
+				"categories",
+				"categoriesMap"
+			],
+			[
+				"product",
+				"productGroup"
+			],
+			[
+				"categoryI",
+				"categoryIds"
+			],
+			[
+				"categoriy",
+				"categoryIds"
+			],
+			[
+				"null",
+				"description-Number.prototype.toLocaleString()"
+			],
+			[
+				"campaignsGro",
+				"campaignsGroupDomain"
+			],
+			[
+				"selectedCampaigns",
+				"selectedCampaignsGroup"
+			],
+			[
+				"desc",
+				"description-Worker"
+			],
+			[
+				"d",
+				"desc	BDD describe"
+			],
+			[
+				"fun",
+				"description-Function.length"
+			],
+			[
+				"sc",
+				"time-selection"
+			],
+			[
+				"tooltip",
+				"tooltipFn"
+			],
+			[
+				"getReduce",
+				"getReduceInitial"
+			],
+			[
+				"prepae",
+				"prepareJsRefs"
+			],
+			[
+				"influencers",
+				"influencersData"
+			],
+			[
+				"productTraffic",
+				"productTrafficData"
+			],
+			[
+				"as",
+				"AS"
+			],
+			[
+				"from",
+				"FROM"
+			],
+			[
+				"getElement",
+				"getElementsByClassName(${0:names})	Element"
+			],
+			[
+				"getEle",
+				"getElementsByClassName(${0:names})	Element"
+			],
+			[
+				"campaignServ",
+				"campaignService"
+			],
+			[
+				"description",
+				"description-String"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"vis",
+				"visibility"
+			],
+			[
+				"duratio",
+				"animationDuration	Style CSS"
+			],
+			[
+				"tran",
+				"transition	Style CSS"
+			],
+			[
+				"_find",
+				"_findWhere	Underscore.js findWhere"
+			],
+			[
+				"sunburst",
+				"sunburstData"
+			],
+			[
+				"catgories",
+				"categoriesTree"
+			],
+			[
+				"prediction",
+				"predictions"
+			],
+			[
+				"_ind",
+				"_indexOf	Underscore.js indexOf"
+			],
+			[
+				"_f",
+				"_first	Underscore.js first"
+			],
+			[
+				"Influencers",
+				"influencersReportService"
+			],
+			[
+				"withNotra",
+				"withNoTrafficComparison"
+			],
+			[
+				"top10Percen",
+				"top10PercentComparison"
+			],
+			[
+				"box-s",
+				"box-shadow"
+			],
+			[
+				"lastin",
+				"lastIndexOf(${0:searchValue})	String"
+			],
+			[
+				"lastIndex",
+				"lastIndexOf(${0:searchValue})	String"
+			],
+			[
+				"lastIn",
+				"lastIndexOf(${0:searchValue})	String"
+			],
+			[
+				"categoris",
+				"categoriesList"
+			],
+			[
+				"ordersProbabilit",
+				"ordersProbabilityService"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"comparisonData",
+				"tempComparisonData"
+			],
+			[
+				"_sort",
+				"_sortBy	Underscore.js sortBy"
+			],
+			[
+				"rentability",
+				"rentabilityChart"
+			],
+			[
+				"rentabilit",
+				"rentabilityChart"
+			],
+			[
+				"influencer",
+				"influencersReportService"
+			],
+			[
+				"outerH",
+				"outerHeight	Window"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"topCategories",
+				"topChartCategories"
+			],
+			[
+				"topSources",
+				"topSourcesCount"
+			],
+			[
+				"cons",
+				"console.log('$0');"
+			],
+			[
+				"disa",
+				"disabledCategories"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<template name=\"builder\">\n  <div class=\"row\">\n    \n    <!-- START CREATE REPORT -->\n    {{#if createState}}\n      <h2>Type a report name</h2>\n      <form method=\"POST\" class=\"col s12\" data-action=\"create-report\" style=\"margin-top: 100px\">\n        <div class=\"row valign-wrapper\">\n          <div class=\"input-field col s12 valign\">\n            <input id=\"report-name\" name=\"report-name\" type=\"text\" value=\"{{name}}\" placeholder=\"Report name\" />\n            <label for=\"report-name\">Report name</label>\n          </div>\n        </div>\n        <button class=\"btn waves-effect waves-light\" type=\"submit\">Submit\n          <i class=\"mdi mdi-send\"></i>\n        </button>\n      </form>\n    {{/if}}\n    <!-- END CREATE REPORT -->\n  \n    <!-- START ADD TASKS-->\n    {{#if addTasksState}}\n      <h2>Add tasks:</h2>\n      <form method=\"POST\" data-action=\"add-tasks\" class=\"col s12\" >\n        {{#each tasks}}\n          <div class=\"row valign-wrapper\">\n            <div class=\"input-field col s12 valign\">\n              <input id=\"{{id}}\" value=\"{{name}}\" type=\"text\" />\n              <label for=\"{{id}}\">Task name</label>\n            </div>\n            <a class=\"btn-floating waves-effect waves-light red\" data-taskId=\"{{id}}\" data-action=\"remove-task\">\n              <i class=\"mdi mdi-close-circle\"></i>\n            </a>\n          </div>\n        {{/each}}\n        <a class=\"waves-effect waves-light btn\" data-action=\"add-task\">Add task</a>\n        <button class=\"btn waves-effect waves-light\" type=\"submit\">Submit\n          <i class=\"mdi mdi-send\"></i>\n        </button>\n      </form>\n    {{/if}}\n    <!-- END ADD TASKS-->\n\n    <!-- START ADD CRITERIA -->\n    {{#if addCriteriaState}}\n      <h2>Criteria</h2>\n      <form method=\"POST\" data-action=\"add-criteria\">\n        <div class=\"col s6\" style=\"padding: 30px;\">\n          <h3>Positive criteria:</h3>\n          {{#each positiveCriteria}}\n            <div class=\"row valign-wrapper\">\n              <div class=\"input-field col s6 valign\">\n                <input name=\"name-{{id}}\" id=\"name-{{id}}\" value=\"{{name}}\" type=\"text\" />\n                <label for=\"name-{{id}}\">Positive criteria name</label>\n              </div>\n              <div class=\"input-field col s4\">\n                <input name=\"value-{{id}}\" id=\"value-{{id}}\" value=\"{{value}}\" type=\"text\" />\n                <label for=\"value-{{id}}\" class=\"active\">Criteria importance (1-10)</label>\n              </div>\n              <a class=\"btn-floating waves-effect waves-light red\" data-criteriaId=\"{{id}}\" data-action=\"remove-criteria\">\n                <i class=\"mdi mdi-close-circle\"></i>\n              </a>\n            </div>\n          {{/each}}\n          <a class=\"waves-effect waves-light btn\" data-action=\"add-positive-criteria\">Add positive criteria</a>\n        </div>\n        <div class=\"col s6\" style=\"padding: 30px;\">\n          <h3>Negative criteria:</h3>\n          {{#each negativeCriteria}}\n            <div class=\"row valign-wrapper\">\n              <div class=\"input-field col s6 valign\">\n                <input name=\"name-{{id}}\" id=\"name-{{id}}\" value=\"{{name}}\" type=\"text\" />\n                <label for=\"name-{{id}}\">Negatie criteira name</label>\n              </div>\n              <div class=\"input-field col s4\">\n                <input name=\"value-{{id}}\" id=\"value-{{id}}\" value=\"{{value}}\" type=\"text\" />\n                <label for=\"value-{{id}}\" class=\"active\">Criteria importance (1-10)</label>\n              </div>\n              <a class=\"btn-floating waves-effect waves-light red\" data-criteriaId=\"{{id}}\" data-action=\"remove-criteria\">\n                <i class=\"mdi mdi-close-circle\"></i>\n              </a>\n            </div>\n          {{/each}}\n          <a class=\"waves-effect waves-light btn\" data-action=\"add-negative-criteria\">Add negative criteria</a>\n        </div>\n        <button class=\"btn waves-effect waves-light\" type=\"submit\" style=\"margin-top: 60px;\">Submit\n          <i class=\"mdi mdi-send\"></i>\n        </button>\n      </form>\n    {{/if}}\n    <!-- END ADD CRITERIA -->\n\n    <!-- START SET ESTIMATIONS -->\n    {{#if setEstimationsState}}\n      <h2>Set task/criteria estimations</h2>\n      <form data-action=\"set-estimations\">\n        <table class=\"bordered\">\n          <thead>\n            {{#each positiveCriteria}}\n          </thead>\n        </table>\n      </form>\n    {{/if}}\n    <!-- END SET ESTIMATIONS -->\n\n\n  </div>\n</template>\n",
+			"file": "client/views/builder/builder.html",
+			"file_size": 4260,
+			"file_write_time": 130920936357618239,
+			"settings":
+			{
+				"buffer_size": 4377,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Template['builder'].helpers({\n	createState: function() {\n		return Session.get('builderStep') === 0;\n	},\n\n	addTasksState: function() {\n		return Session.get('builderStep') === 1;\n	},\n\n	addCriteriaState: function() {\n		return Session.get('builderStep') === 2;\n	},\n\n	addEstimations: function() {\n		return Session.get('builderStep') === 3;\n	},\n\n	isUndoAvailable: function() {\n		return Session.get('builderStep') > 0;\n	},\n\n	tasks: function() {\n		return Session.get('tasks');\n	},\n\n	positiveCriteria: function () {\n		var\n			criteria = Session.get('criteria');\n		return _.where(criteria, { positive: true }) || [];\n	},\n\n	negativeCriteria: function () {\n		var\n			criteria = Session.get('criteria');\n\n		return _.where(criteria, { positive: false }) || [];\n	},\n\n	estimationsTable\n});\n\n/**\n * Create report\n */\nTemplate['builder'].events({\n	/**\n	 * Create report\n	 */\n	'submit [data-action=\"create-report\"]': function(event) {\n		event.preventDefault();\n\n		var reportName = event.target['report-name'].value,\n			reportId,\n			newCriteria;\n\n		if (reportName && reportName !== \"\") {\n			reportId = Reports.insert({\n				name: reportName,\n				createdAt: new Date(),\n				tasks: [],\n				criteria: []\n			});\n		}\n\n		Session.set('reportId', reportId);\n		addTask();\n		setDefaultCriteria(6);\n		Session.set('builderStep', 1);\n	},\n\n	'click [data-action=\"undo\"]': function(event) {\n		event.preventDefault();\n		var currentStep = Session.get(\"builderStep\");\n		Session.set('builderStep', currentStep--);\n	},\n\n	/**\n	 * Add tasks\n	 */\n	'click [data-action=\"add-task\"]': function(event) {\n		event.preventDefault();\n		addTask();\n	},\n\n	'click [data-action=\"remove-task\"]': function (event) {\n		var	taskId = event.currentTarget.getAttribute('data-taskId');\n		removeTask(taskId);\n	},\n\n	'submit [data-action=\"add-tasks\"]': function(event, template) {\n		event.preventDefault();\n		var\n			elements = template.find('[data-action=\"add-tasks\"]').elements,\n			sessionTasks = Session.get('tasks'),\n			tasks = [];\n\n\n		_.each(elements, function(elem, idx) {\n			if(idx < sessionTasks.length) {\n				tasks.push({\n					name: elem.value\n				});\n			} \n		});\n\n		updateTasks(tasks);\n		Session.set('builderStep', 2);\n		Session.set('tasks', []);\n	},\n\n\n	/**\n	 * Add criteria\n	 */\n	'click [data-action=\"add-positive-criteria\"]': function (event) {\n		event.preventDefault();\n		addCriteria(true);\n	},\n\n	'click [data-action=\"add-negative-criteria\"]': function (event) {\n		event.preventDefault();\n		addCriteria(false);\n	},\n\n	'click [data-action=\"remove-criteria\"]': function (event) {\n		var	criteriaId = event.currentTarget.getAttribute('data-criteriaId');\n		removeCriteria(criteriaId);\n	},\n\n	'submit [data-action=\"add-criteria\"]': function (event, template) {\n		event.preventDefault();\n		var\n			sessionCriteria = Session.get('criteria'),\n			criteria = [];\n		\n		_.each(sessionCriteria, function(c, idx) {\n			var\n				name = $(\"#name-\"+c.id).val(),\n				value = $(\"#value-\"+c.id).val();\n\n			criteria.push({\n				name: name,\n				value: value,\n				positive: c.positive\n			});\n\n		});\n\n		updateCriteria(criteria);\n		Session.set('builderStep', 3);\n		Session.set('criteria', []);\n	}\n\n});\n\nTemplate.builder.onCreated(function() {\n	Session.set('builderStep', 0);\n	Session.set('tasks', []);\n	Session.set('criteria', []);\n});\n\n// TASKS\nfunction addTask () {\n	var\n		tasks = Session.get('tasks') || [];\n\n	tasks.push({\n		id: new Date().getTime(),\n		name: \"\"\n	});\n\n	Session.set('tasks', tasks);\n}\n\nfunction removeTask (taskId) {\n	var\n		tasks = Session.get('tasks');\n\n	tasks = _.filter(tasks, function (task, idx) {\n		return +task.id !== +taskId;\n	});\n\n	Session.set('tasks', tasks);\n}\n\nfunction updateTasks(tasks) {\n	var\n		reportId = Session.get('reportId');\n\n	Reports.update(reportId, {\n		$set: {\n			tasks: tasks\n		}\n	});\n}\n\nfunction getTasks() {\n	var\n		reportId = Session.get('reportId'),\n		report = Reports.findOne(reportId);\n\n	if (report) {\n		return report.tasks;\n	}\n}\n\n// CRITERIA\nfunction setDefaultCriteria (n) {\n	_.times(n, function(idx) {\n		if (idx < n / 2) {\n			addCriteria(true, idx);\n		} else {\n			addCriteria(false, idx);\n		}\n	});\n}\n\nfunction addCriteria (positive, idx) {\n	var\n		criteria = Session.get('criteria') || [];\n\n	criteria.push({\n		id: [new Date().getTime(), idx || \"\"].join(''),\n		name: \"\",\n		positive: positive,\n		value: 10\n	});\n\n	Session.set('criteria', criteria);\n}\n\nfunction removeCriteria (criteriaId) {\n	var\n		criteria = Session.get('criteria');\n\n	criteria = _.filter(criteria, function (c) {\n		return +c.id !== +criteriaId;\n	});\n\n	Session.set('criteria', criteria);\n}\n\nfunction updateCriteria (criteria) {\n	var\n		reportId = Session.get('reportId');\n\n	Reports.update(reportId, {\n		$set: {\n			criteria: criteria\n		}\n	});\n}\n\n// ESTIMATIONS\nfunction createTable () {\n\n}\n\nfunction updateEstimations(estimations) {\n	var\n		reportId = Session.get('reportId');\n\n	Reports.update(reportId, {\n		$set: {\n			estimations: estimations\n		}\n	});\n}",
+			"file": "client/views/builder/builder.next.js",
+			"file_size": 4854,
+			"file_write_time": 130920935361338239,
+			"settings":
+			{
+				"buffer_size": 4874,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/startup/default.js",
+			"settings":
+			{
+				"buffer_size": 102,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/views/dashboard/dashboard.next.js",
+			"settings":
+			{
+				"buffer_size": 409,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "server/methods/reports.js",
+			"settings":
+			{
+				"buffer_size": 1045,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 310.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"ss js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"tern",
+				"TernJS: Jump To Definition"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"rm ",
+				"Package Control: Remove Package"
+			],
+			[
+				"rm",
+				"Package Control: Remove Package"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"set :nex",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"setjson",
+				"Set Syntax: JSON"
+			]
+		],
+		"width": 776.0
+	},
+	"console":
+	{
+		"height": 118.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/palkanov-vlad/study/sppr/dss",
+		"/home/palkanov-vlad/study/sppr/dss/client",
+		"/home/palkanov-vlad/study/sppr/dss/client/modules",
+		"/home/palkanov-vlad/study/sppr/dss/client/views",
+		"/home/palkanov-vlad/study/sppr/dss/client/views/list",
+		"/home/palkanov-vlad/study/sppr/dss/server",
+		"/home/palkanov-vlad/study/sppr/dss/server/config",
+		"/home/palkanov-vlad/study/sppr/dss/server/methods",
+		"/home/palkanov-vlad/study/sppr/dss/server/publications",
+		"/home/palkanov-vlad/study/sppr/dss/server/startup"
+	],
+	"file_history":
+	[
+		"/home/palkanov-vlad/study/sppr/dss/client/views/dashboard/dashboard.html",
+		"/home/palkanov-vlad/study/sppr/dss/client/views/builder/builder.html",
+		"/home/palkanov-vlad/study/sppr/dss/client/views/list/list.next.js",
+		"/home/palkanov-vlad/study/sppr/dss/client/views/list/list.html",
+		"/home/palkanov-vlad/study/sppr/dss/server/publications/reports.js",
+		"/home/palkanov-vlad/study/sppr/dss/client/startup/default.js",
+		"/home/palkanov-vlad/study/sppr/dss/server/collections/reports.js",
+		"/home/palkanov-vlad/study/sppr/dss/client/views/dashboard/list/list.next.js",
+		"/home/palkanov-vlad/study/sppr/dss/server/startup/fixtures.js",
+		"/home/palkanov-vlad/study/sppr/dss/server/collections/tasks.js",
+		"/home/palkanov-vlad/study/sppr/dss/client/views/home/home.html",
+		"/home/palkanov-vlad/study/sppr/dss/server/methods/reports.js",
+		"/home/palkanov-vlad/study/sppr/dss/client/config/router.next.js",
+		"/home/palkanov-vlad/study/sppr/dss/private/users.yml",
+		"/home/palkanov-vlad/study/sppr/dss/server/lib/yaml.min.js",
+		"/home/palkanov-vlad/study/sppr/dss/routes/mainRoutes.next.js",
+		"/home/palkanov-vlad/study/sppr/dss/routes/Routes.next.js",
+		"/home/palkanov-vlad/study/sppr/dss/server/collections/criteria.js",
+		"/home/palkanov-vlad/study/sppr/dss/server/collections/_index.js",
+		"/home/palkanov-vlad/study/sppr/dss/.meteor/local/build/programs/server/node_modules/fibers/future.js",
+		"/home/palkanov-vlad/study/sppr/dss/server/collections/скшеукшф",
+		"/home/palkanov-vlad/study/sppr/dss/server/startup/loadUsers.js",
+		"/home/palkanov-vlad/study/sppr/dss/server/fixtures/fixtures.js",
+		"/home/palkanov-vlad/study/sppr/dss/client/views/layouts/basic.html",
+		"/home/palkanov-vlad/study/sppr/dss/server/fixtures/dummyFixture.js",
+		"/home/palkanov-vlad/study/sppr/dss/routes/mainRoutes.js",
+		"/home/palkanov-vlad/study/sppr/dss/routes/dashboardRoutes.next.js",
+		"/home/palkanov-vlad/study/sppr/dss/.meteor/local/build/programs/web.browser/app/client/views/dashboard/dashboard.js",
+		"/home/palkanov-vlad/study/sppr/dss/.meteor/packages",
+		"//",
+		"/home/palkanov-vlad/Downloads/opencl/pset_opencl_runtime_14.1_x64_4.5.0.8/install.sh",
+		"/home/palkanov-vlad/work/Southwestern/src/client/views/report/builder.js",
+		"/home/palkanov-vlad/work/Southwestern/src/client/views/report/builder.html",
+		"/home/palkanov-vlad/work/Southwestern/src/client/views/user/list.html",
+		"/home/palkanov-vlad/work/Southwestern/src/lib/utils/common.js",
+		"/home/palkanov-vlad/work/Southwestern/src/client/views/user/list.js",
+		"/home/palkanov-vlad/work/Southwestern/.gitignore",
+		"/home/palkanov-vlad/work/Southwestern/src/client/lib/utils/common.js",
+		"/home/palkanov-vlad/work/Southwestern/README.md",
+		"/home/palkanov-vlad/work/Southwestern/src/routes/users.js",
+		"/home/palkanov-vlad/work/Southwestern/src/client/views/auth/login.html",
+		"/home/palkanov-vlad/work/Southwestern/src/client/views/auth/login.js",
+		"/home/palkanov-vlad/work/Southwestern/src/server/lib/hooks.js",
+		"/home/palkanov-vlad/work/Southwestern/src/client/views/leaderboard/detail.html",
+		"/home/palkanov-vlad/work/Southwestern/src/client/views/leaderboard/detail.js",
+		"/home/palkanov-vlad/work/Southwestern/src/client/views/leaderboard/list.html",
+		"/home/palkanov-vlad/work/Southwestern/src/client/views/report/daily.html",
+		"/home/palkanov-vlad/work/Southwestern/src/lib/methods/tools.js",
+		"/home/palkanov-vlad/work/Southwestern/src/client/views/company/list.js",
+		"/home/palkanov-vlad/work/Southwestern/src/client/views/factor/list.js",
+		"/home/palkanov-vlad/.ssh/config",
+		"/home/palkanov-vlad/work/Southwestern/src/client/views/factor/detail.html",
+		"/home/palkanov-vlad/work/Southwestern/src/client/views/factor/detail.js",
+		"/home/palkanov-vlad/work/Southwestern/src/client/views/factor/list.html",
+		"/home/palkanov-vlad/work/Southwestern/src/lib/methods/factors.js",
+		"/home/palkanov-vlad/work/Southwestern/src/.meteor/versions",
+		"/home/palkanov-vlad/work/Southwestern/src/client/views/user/factors.html",
+		"/home/palkanov-vlad/work/Southwestern/src/client/views/report/daily.js",
+		"/home/palkanov-vlad/work/Southwestern/src/server/jobs/mailer.js",
+		"/home/palkanov-vlad/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/palkanov-vlad/work/Southwestern/src/routes/reports.js",
+		"/home/palkanov-vlad/work/Southwestern/src/.meteor/local/build/README",
+		"/home/palkanov-vlad/.ssh/prod-key.pub",
+		"/home/palkanov-vlad/work/Southwestern/src/lib/methods/factor-categories.js",
+		"/home/palkanov-vlad/work/Southwestern/src/.meteor/local/build/programs/server/app/lib/utils/common.js",
+		"/home/palkanov-vlad/work/waterline/smart-agent/server/jobs/reportsJob.js",
+		"/home/palkanov-vlad/work/waterline/smart-agent/.gitignore",
+		"/home/palkanov-vlad/work/waterline/smart-agent/client/main/partial/reports/reports.html",
+		"/home/palkanov-vlad/work/smart-agent/settings/vlad/config.json",
+		"/home/palkanov-vlad/work/smart-agent/settings/aleksey/config.json",
+		"/home/palkanov-vlad/work/smart-agent/client/main/partial/dashboard/dashboard.less",
+		"/home/palkanov-vlad/work/smart-agent/client/main/directive/dashboard/leaderboard/leaderboard.js",
+		"/home/palkanov-vlad/work/smart-agent/client/main/partial/dashboard/dashboard.html",
+		"/home/palkanov-vlad/work/smart-agent/client/main/directive/dashboard/leaderboard/leaderboard.html",
+		"/home/palkanov-vlad/work/smart-agent/client/main/app.js",
+		"/home/palkanov-vlad/work/smart-agent/.gitignore",
+		"/home/palkanov-vlad/work/smart-agent/server/app.js",
+		"/home/palkanov-vlad/work/smart-agent/client/main/partial/reports/reports.html",
+		"/home/palkanov-vlad/work/smart-agent/client/main/index.html",
+		"/home/palkanov-vlad/work/smart-agent/client/main/service/sources.js",
+		"/home/palkanov-vlad/work/smart-agent/client/main/directive/reports/report/report.js",
+		"/home/palkanov-vlad/work/smart-agent/client/main/directive/reports/report/report.html",
+		"/home/palkanov-vlad/work/smart-agent/client/main/partial/sources/sources.js",
+		"/home/palkanov-vlad/work/smart-agent/.editorconfig",
+		"/home/palkanov-vlad/work/smart-agent/smart-agent.sublime-project",
+		"/home/palkanov-vlad/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/palkanov-vlad/work/smart-agent/client/main/.jshintrc",
+		"/home/palkanov-vlad/work/smart-agent/scripts/initdb.js",
+		"/home/palkanov-vlad/work/smart-agent/server/infrastructure/grunt/install.js",
+		"/home/palkanov-vlad/work/smart-agent/settings/alex/config.json",
+		"/home/palkanov-vlad/work/smart-agent/settings/.config",
+		"/home/palkanov-vlad/study/react/tutor/react-tutorial/public/index.html",
+		"/home/palkanov-vlad/study/react/tutor/react-tutorial/comments.json",
+		"/home/palkanov-vlad/study/react/tutor/react-tutorial/public/scripts/example.js",
+		"/home/palkanov-vlad/study/react/tutor/react-tutorial/server.js",
+		"/home/palkanov-vlad/study/react/tutor/build/app.js",
+		"/home/palkanov-vlad/study/react/tutor/app/app.js",
+		"/home/palkanov-vlad/study/react/tutor/app/index.html",
+		"/home/palkanov-vlad/study/react/tutor/bower.json",
+		"/home/palkanov-vlad/study/react/tutor/package.json",
+		"/home/palkanov-vlad/study/react/tutor/react-tutorial/Server.hs",
+		"/home/palkanov-vlad/study/react/tutor/app/npm-debug.log",
+		"/home/palkanov-vlad/study/react/tutor/app/appjs",
+		"/home/palkanov-vlad/work/backoffice-master/assets/frontend/main/services/timeUtils.js",
+		"/home/palkanov-vlad/work/backoffice-master/assets/frontend/main/directives/bo-calendar/bo-calendar-form/bo-calendar-form.js",
+		"/home/palkanov-vlad/work/backoffice-master/assets/frontend/main/services/reports/r4/campaigns-rentability.js",
+		"/home/palkanov-vlad/work/backoffice-master/assets/frontend/main/app.js",
+		"/home/palkanov-vlad/work/backoffice-master/assets/frontend/main/directives/timeline/date-range/date-range.js",
+		"/home/palkanov-vlad/work/backoffice-master/settings/vlad/localhost/config.json",
+		"/home/palkanov-vlad/work/backoffice-master/assets/frontend/main/directives/bo-calendar/bo-calendar-modal.js",
+		"/home/palkanov-vlad/work/backoffice-master/assets/frontend/main/directives/bo-calendar/bo-calendar-form/bo-calendar-form.html",
+		"/home/palkanov-vlad/work/backoffice-master/assets/frontend/main/directives/bo-calendar/bo-calendar-selector/bo-calendar-month/bo-calendar-month.js",
+		"/home/palkanov-vlad/work/backoffice-master/assets/frontend/main/directives/bo-calendar/bo-calendar-selector/bo-calendar-quartet/bo-calendar-quartet.js",
+		"/home/palkanov-vlad/work/backoffice-master/assets/frontend/main/directives/bo-calendar/bo-calendar-selector/bo-calendar-month/bo-calendar-month.html",
+		"/home/palkanov-vlad/work/backoffice-master/assets/frontend/main/directives/bo-calendar/bo-calendar-selector/bo-calendar-selector.html",
+		"/home/palkanov-vlad/work/backoffice-master/assets/frontend/main/directives/bo-calendar/bo-calendar-modal.html",
+		"/home/palkanov-vlad/work/backoffice-master/assets/frontend/main/directives/bo-calendar/bo-calendar-selector/bo-calendar-selector.js",
+		"/home/palkanov-vlad/work/backoffice-master/assets/less/calendar-modal.less",
+		"/home/palkanov-vlad/work/backoffice-master/assets/frontend/main/directives/bo-calendar/bo-calendar-selector/bo-calendar-quartet/bo-calendar-quartet.html",
+		"/home/palkanov-vlad/work/backoffice-master/assets/frontend/main/directives/bo-calendar/bo-calendar-events/bo-calendar-events.html",
+		"/home/palkanov-vlad/work/backoffice-master/assets/frontend/main/directives/bo-calendar/bo-calendar-events/bo-calendar-events.js",
+		"/home/palkanov-vlad/work/backoffice-master/assets/frontend/main/filters/date/moment-date-filter.js",
+		"/home/palkanov-vlad/work/backoffice-master/assets/frontend/main/directives/bo-calendar/bo-calendar-form/bo-calendar-dateinput/bo-calendar-dateinput.js",
+		"/home/palkanov-vlad/work/backoffice-master/assets/less/variables.less",
+		"/home/palkanov-vlad/work/backoffice-master/assets/frontend/main/index.html",
+		"/home/palkanov-vlad/work/backoffice-master/assets/frontend/bower_components/angular-ui-mask/dist/mask.js",
+		"/home/palkanov-vlad/work/backoffice-master/assets/frontend/auth/app.js",
+		"/home/palkanov-vlad/work/backoffice-master/assets/frontend/main/directives/bo-calendar/bo-calendar-header/bo-calendar-header.js"
+	],
+	"find":
+	{
+		"height": 63.0
+	},
+	"find_in_files":
+	{
+		"height": 143.0,
+		"where_history":
+		[
+			"",
+			"src/client",
+			"./src/client",
+			"console.log",
+			"",
+			"assets/frontend/main",
+			"../",
+			"./assets/frontend/main",
+			"./assets/less",
+			"./assets/frontend/main",
+			"./assets/less",
+			"./assets/frontend/main",
+			"./assets/less",
+			"./assets/frontend/main",
+			"./assets/frontend",
+			"./src",
+			"./app/frontend",
+			"./app/",
+			"app",
+			"",
+			"assets/frontend/main",
+			"assert/frontend/main",
+			"assest/frontend/main",
+			"",
+			"assets/frontend/main",
+			"assets/less",
+			"",
+			"assets/frontend/main",
+			"assets/",
+			"assets/frontend/main",
+			"*.less",
+			"assets/frontend/main",
+			"*.less",
+			"./assets/frontend/main",
+			"assets/frontned/main",
+			"",
+			"assets/frontend/main",
+			"",
+			"assets/frontend/main",
+			"assets/",
+			"assets/frontend/main",
+			"./main",
+			"",
+			"./",
+			".",
+			"./assets/frontend/main",
+			"",
+			".",
+			"./*.less",
+			"./assets/frontend/main",
+			"./assets",
+			"",
+			"./assets/frontend/main",
+			"./",
+			"",
+			"./assets/frontend/main",
+			"",
+			"assets/frontend/main",
+			"",
+			"./assets/frontend/main",
+			"./assets/frontend",
+			"./assets/frontend/main",
+			"assets/frontend/main",
+			"",
+			"assets/frontend/main",
+			"",
+			"assets/less",
+			"*.less",
+			"",
+			"frontend/main",
+			"",
+			"./src/server",
+			"./src/actions",
+			"/src/actions",
+			"./src/actions",
+			"",
+			"./assets/frontend/main",
+			"",
+			"assets/frontend/main",
+			"",
+			" *.less",
+			" ",
+			"*.html",
+			"",
+			"assets/frontend/main",
+			"",
+			"src/",
+			"./src",
+			"src/",
+			"src",
+			"",
+			"assets/frontend/main",
+			"",
+			"assets/frontend/main",
+			"",
+			"/home/palkanov-vlad/work/backoffice/assets/frontend/main",
+			"assets/",
+			"assets/less",
+			"assets/",
+			"assets/frontend/main",
+			"",
+			"assets/css",
+			"assets/less",
+			"assets/frontend/less",
+			"assets/frontend/main",
+			"",
+			"assets/frontend/services",
+			"assets/frontend/directives",
+			"assets/frontend/modules",
+			"src/",
+			"",
+			"src/",
+			"assets/frontend/",
+			"src/",
+			"",
+			"src",
+			"/src",
+			"assets/frontend/",
+			"src/",
+			"",
+			"../../../../frontend/modules",
+			"../../../..//frontend",
+			"/frontend",
+			"./frontend",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"criteria",
+			"add",
+			"ADD",
+			"Positive",
+			"Criteria importance",
+			"name",
+			">Option",
+			"option ",
+			"Option ",
+			"option ",
+			"Option ",
+			"option ",
+			"Option ",
+			"tasks",
+			"Tasks",
+			"tasks",
+			"Tasks",
+			"tasks",
+			"Task",
+			"task",
+			"tasks",
+			"findWhere",
+			"2",
+			"list",
+			"state",
+			"Meteor.reports",
+			"list",
+			"div",
+			"Creiteria",
+			"basicLayout",
+			"Github",
+			"tru",
+			"deployment_type",
+			"console.log",
+			"./src",
+			"./src/client/",
+			"src/client",
+			"console.log",
+			"pagingNav",
+			"pdf",
+			"generatePDF",
+			"generate",
+			"pdf",
+			"validateLoginAttempt",
+			"<<<",
+			"<<<<",
+			"period",
+			"<<<<",
+			"sw.dev:/home/sw/sw-app/deploy/src.tar.gz sw.prod:/home/sw/sw-app/deploy/src.tar.gz",
+			"users",
+			"show selected",
+			"assign",
+			"ass",
+			"showPercentages",
+			"goalsOnly",
+			"Goals",
+			"goals",
+			"goalsOnly",
+			"showPercentages",
+			"goalsOnly",
+			"showPercentages",
+			"goalsOnly",
+			"console.log",
+			"disablePercentages",
+			"pecentageText",
+			"disablePercentages",
+			"SW",
+			"generatePDFReport",
+			"SW",
+			"job",
+			"user:send:leaderboard:report",
+			"sendReportEmail",
+			"service",
+			"updateReportSettings",
+			"update-report-settings",
+			"dashboard",
+			"table",
+			"</td>",
+			"class=\"text-center\"",
+			"user",
+			"usersView",
+			"generateReport",
+			"getData",
+			"SourcesCtrl",
+			"selectedRange",
+			".js></script>",
+			".js\"></script>",
+			"js></script>",
+			"src=/",
+			"src",
+			"/reports",
+			"initdb",
+			"Material-Theme",
+			"CommentForm",
+			"div",
+			"List",
+			"console.log",
+			"from",
+			"selectedPeriod",
+			"$uibModal",
+			"replace: false",
+			"console.log",
+			"ng-blur",
+			"ng-click",
+			"selectFn",
+			"setCurrentSelection",
+			"console.log",
+			"refreshFlags",
+			"periodsSelectorForm",
+			"selectedPeriod",
+			"$scope.periods",
+			"console.log",
+			"@red",
+			"validDate",
+			"viewValue",
+			"error",
+			"currentSelection",
+			"selectFn",
+			"cancel",
+			"Cancel",
+			"cancel",
+			"$viewValue",
+			"viewFormatFormatter",
+			"selectedPeriod",
+			"from",
+			"bo-calendar-dateinput ",
+			"ngModel",
+			"setCurrentSelection"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"\"variables\"",
+			"@import (reference) \"variables.less\"",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "client/views/builder/builder.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4377,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4256,
+								4256
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "client/views/builder/builder.next.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4874,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								468,
+								468
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 144.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "client/startup/default.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 102,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								98,
+								98
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "client/views/dashboard/dashboard.next.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 409,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								192,
+								192
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "server/methods/reports.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1045,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								55,
+								55
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 171.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.vcs":
+	{
+		"height": 171.0
+	},
+	"pinned_build_system": "",
+	"project": "dss.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"users",
+				"private/users.yml"
+			],
+			[
+				"future",
+				".meteor/local/build/programs/server/node_modules/fibers/future.js"
+			],
+			[
+				"views/das",
+				".meteor/local/build/programs/web.browser/app/client/views/dashboard/dashboard.js"
+			],
+			[
+				"user/list",
+				"src/client/views/user/list.js"
+			],
+			[
+				"buidler.js",
+				"src/client/views/report/builder.js"
+			],
+			[
+				"views/builder",
+				"src/client/views/report/builder.html"
+			],
+			[
+				"builder",
+				"src/client/views/report/builder.js"
+			],
+			[
+				"common",
+				"src/client/lib/utils/common.js"
+			],
+			[
+				"views/leaderboard",
+				"src/client/views/leaderboard/list.html"
+			],
+			[
+				"builder.js",
+				"src/client/views/report/builder.js"
+			],
+			[
+				"src/client/views/com/list",
+				"src/client/views/company/list.js"
+			],
+			[
+				"view/fac",
+				"src/client/views/user/factors.html"
+			],
+			[
+				"mailer",
+				"src/server/jobs/mailer.js"
+			],
+			[
+				"buil",
+				"src/client/views/report/builder.html"
+			],
+			[
+				"dail",
+				"src/client/views/report/daily.js"
+			],
+			[
+				"daily",
+				"src/client/views/report/daily.html"
+			],
+			[
+				"report",
+				"src/routes/reports.js"
+			],
+			[
+				"tool",
+				"src/lib/methods/tools.js"
+			],
+			[
+				"comm",
+				"src/lib/utils/common.js"
+			],
+			[
+				"rea",
+				"src/.meteor/local/build/README"
+			],
+			[
+				"daily.js",
+				"src/client/views/report/daily.js"
+			],
+			[
+				"daily.",
+				"src/client/views/report/daily.html"
+			],
+			[
+				"b",
+				"src/client/views/report/builder.html"
+			],
+			[
+				"lib/common.js",
+				"src/lib/utils/common.js"
+			],
+			[
+				"tools",
+				"src/lib/methods/tools.js"
+			],
+			[
+				"daily.html",
+				"src/client/views/report/daily.html"
+			],
+			[
+				"lib/meth/fac",
+				"src/lib/methods/factors.js"
+			],
+			[
+				"lib/methods/fact",
+				"src/lib/methods/factor-categories.js"
+			],
+			[
+				"reports",
+				"client/main/partial/reports/reports.html"
+			],
+			[
+				"main/app.",
+				"client/main/app.js"
+			],
+			[
+				"app.js",
+				"server/app.js"
+			],
+			[
+				"reports.html",
+				"client/main/partial/reports/reports.html"
+			],
+			[
+				"timu",
+				"assets/frontend/main/services/timeUtils.js"
+			],
+			[
+				"bo-cal-form",
+				"assets/frontend/main/directives/bo-calendar/bo-calendar-form/bo-calendar-form.js"
+			],
+			[
+				"campaigns-ren",
+				"assets/frontend/main/services/reports/r4/campaigns-rentability.js"
+			],
+			[
+				"timeutils",
+				"assets/frontend/main/services/timeUtils.js"
+			],
+			[
+				"main/app.js",
+				"assets/frontend/main/app.js"
+			],
+			[
+				"date-range",
+				"assets/frontend/main/directives/timeline/date-range/date-range.js"
+			],
+			[
+				"bo-calendar-from",
+				"assets/frontend/main/directives/bo-calendar/bo-calendar-form/bo-calendar-form.html"
+			],
+			[
+				"bo-calendar-month",
+				"assets/frontend/main/directives/bo-calendar/bo-calendar-selector/bo-calendar-month/bo-calendar-month.js"
+			],
+			[
+				"bo-calendar-form",
+				"assets/frontend/main/directives/bo-calendar/bo-calendar-form/bo-calendar-form.js"
+			],
+			[
+				"bo-cal-q",
+				"assets/frontend/main/directives/bo-calendar/bo-calendar-selector/bo-calendar-quartet/bo-calendar-quartet.js"
+			],
+			[
+				"bo-cal-sele",
+				"assets/frontend/main/directives/bo-calendar/bo-calendar-selector/bo-calendar-selector.js"
+			],
+			[
+				"bo-calendar-modal",
+				"assets/frontend/main/directives/bo-calendar/bo-calendar-modal.html"
+			],
+			[
+				"calendar-modal",
+				"assets/less/calendar-modal.less"
+			],
+			[
+				"bo-calnad-events",
+				"assets/frontend/main/directives/bo-calendar/bo-calendar-events/bo-calendar-events.js"
+			],
+			[
+				"bo-calrnadar-evnet",
+				"assets/frontend/main/directives/bo-calendar/bo-calendar-events/bo-calendar-events.html"
+			],
+			[
+				"vari",
+				"assets/less/variables.less"
+			],
+			[
+				"mask.",
+				"assets/frontend/bower_components/angular-ui-mask/dist/mask.js"
+			],
+			[
+				"ui-mask/ma",
+				"assets/frontend/bower_components/angular-ui-mask/dist/mask.js"
+			],
+			[
+				"main/app",
+				"assets/frontend/main/app.js"
+			],
+			[
+				"index.html",
+				"assets/frontend/main/index.html"
+			],
+			[
+				"bo-da",
+				"assets/frontend/main/directives/bo-calendar/bo-calendar-form/bo-calendar-dateinput/bo-calendar-dateinput.js"
+			],
+			[
+				"calendr-",
+				"assets/less/calendar-modal.less"
+			],
+			[
+				"main/index",
+				"assets/frontend/main/index.html"
+			],
+			[
+				"bo-cale-eve",
+				"assets/frontend/main/directives/bo-calendar/bo-calendar-events/bo-calendar-events.html"
+			],
+			[
+				"",
+				"gulpfile.js"
+			],
+			[
+				"bo-calendar-events",
+				"assets/frontend/main/directives/bo-calendar/bo-calendar-events/bo-calendar-events.js"
+			],
+			[
+				"legend.",
+				"assets/frontend/main/directives/legend/legend.js"
+			],
+			[
+				"bo-caledar-event",
+				"assets/frontend/main/directives/bo-calendar/bo-calendar-events/bo-calendar-events.html"
+			],
+			[
+				"bo-calendar-mo",
+				"assets/frontend/main/directives/bo-calendar/bo-calendar-modal.html"
+			],
+			[
+				"slim",
+				"assets/frontend/main/directives/slimscroll/slimscroll.js"
+			],
+			[
+				"main/locao",
+				"assets/frontend/main/resources/locale-fr_FR.json"
+			],
+			[
+				"main/local",
+				"assets/frontend/main/resources/locale-en_US.json"
+			],
+			[
+				"bo-cale",
+				"assets/frontend/main/directives/bo-calendar/bo-calendar-selector/bo-calendar-month/bo-calendar-month.js"
+			],
+			[
+				"bo-cal-tool",
+				"assets/frontend/main/directives/bo-calendar/bo-calendar-selector/bo-calendar-tooltip/bo-calendar-tooltip.js"
+			],
+			[
+				"tool.less",
+				"assets/less/tooltip.less"
+			],
+			[
+				"variables",
+				"assets/less/variables.less"
+			],
+			[
+				"main/in",
+				"assets/frontend/main/index.html"
+			],
+			[
+				"calendar-modal.l",
+				"assets/less/calendar-modal.less"
+			],
+			[
+				"bo-calendar-eve",
+				"assets/frontend/main/directives/bo-calendar/bo-calendar-events/bo-calendar-events.js"
+			],
+			[
+				"main/index.html",
+				"assets/frontend/main/index.html"
+			],
+			[
+				"main/index.",
+				"assets/dist/main/index.html"
+			],
+			[
+				"var",
+				"assets/less/variables.less"
+			],
+			[
+				"bo-calendar-tooltip",
+				"assets/frontend/main/directives/bo-calendar/bo-calendar-selector/bo-calendar-tooltip/bo-calendar-tooltip.html"
+			],
+			[
+				"bo-cal-modth",
+				"assets/frontend/main/directives/bo-calendar/bo-calendar-selector/bo-calendar-month/bo-calendar-month.html"
+			],
+			[
+				"filters/event",
+				"assets/frontend/main/filters/date/events-date-range.js"
+			],
+			[
+				"bo-calendar-notes",
+				"assets/frontend/main/directives/bo-calendar/bo-calendar-events/bo-calendar-events.html"
+			],
+			[
+				"sales-by-traffic",
+				"assets/frontend/main/modules/reports/r4/sales-by-traffic/sales-by-traffic.html"
+			],
+			[
+				"locale-fr_fr",
+				"assets/frontend/main/resources/locale-fr_FR.json"
+			],
+			[
+				"main/",
+				"assets/frontend/main/resources/locale-en_US.json"
+			],
+			[
+				"campaign/crea",
+				"assets/frontend/main/modules/campaign-management/add-campaign/create.html"
+			],
+			[
+				"locale-",
+				"assets/frontend/main/resources/locale-fr_FR.json"
+			],
+			[
+				"bo-calendar-selec",
+				"assets/frontend/main/directives/bo-calendar/bo-calendar-selector/bo-calendar-selector.js"
+			],
+			[
+				"timeuils",
+				"assets/frontend/main/services/timeUtils.js"
+			],
+			[
+				"slimsc",
+				"assets/frontend/bower_components/slimScroll/jquery.slimscroll.js"
+			],
+			[
+				"filters/mom",
+				"assets/frontend/main/filters/date/moment-date-filter.js"
+			],
+			[
+				"bo-calendar",
+				"assets/frontend/main/directives/bo-calendar/bo-calendar-form/bo-calendar-dateinput/bo-calendar-dateinput.js"
+			],
+			[
+				"bo-calen",
+				"assets/frontend/main/directives/bo-calendar/bo-calendar-modal.js"
+			],
+			[
+				"bo-calendar-sele",
+				"assets/frontend/main/directives/bo-calendar/bo-calendar-selector/bo-calendar-selector.js"
+			],
+			[
+				"range-filter",
+				"assets/frontend/main/directives/report-filters/product-list-with-filters/range-filter/range-filter.html"
+			],
+			[
+				"time",
+				"assets/frontend/main/services/timeUtils.js"
+			],
+			[
+				"sales-",
+				"assets/frontend/main/services/reports/r4/sales-by-traffic.js"
+			],
+			[
+				"timeutil",
+				"assets/frontend/main/services/timeUtils.js"
+			],
+			[
+				"bo-cal",
+				"assets/frontend/main/directives/bo-calendar/bo-calendar-selector/bo-calendar-selector.js"
+			],
+			[
+				"reportload",
+				"assets/frontend/main/services/infrastructure/reportLoader.js"
+			],
+			[
+				"bo-cal-month",
+				"assets/frontend/main/directives/bo-calendar/bo-calendar-selector/bo-calendar-month/bo-calendar-month.js"
+			],
+			[
+				"varia",
+				"assets/less/variables.less"
+			],
+			[
+				"product",
+				"assets/frontend/main/modules/reports/r1/product-traffic/product-traffic.js"
+			],
+			[
+				"sales-by-tra",
+				"assets/frontend/main/services/reports/r4/sales-by-traffic.js"
+			],
+			[
+				"sales-by-traffic.js",
+				"assets/frontend/main/modules/reports/r4/sales-by-traffic/sales-by-traffic.js"
+			],
+			[
+				"cale",
+				"assets/less/calendar-modal.less"
+			],
+			[
+				"product-list-",
+				"assets/frontend/main/directives/report-filters/product-list-with-filters/product-list-with-filters.html"
+			],
+			[
+				"bo-calendar-",
+				"assets/frontend/main/directives/bo-calendar/bo-calendar-form/bo-calendar-form.html"
+			],
+			[
+				"bo-calr",
+				"assets/frontend/main/directives/bo-calendar/bo-calendar-modal.html"
+			],
+			[
+				"product-traffic",
+				"assets/frontend/main/services/reports/r1/product-traffic.js"
+			],
+			[
+				"serv/product-",
+				"assets/frontend/main/services/reports/r1/product-influence.js"
+			],
+			[
+				"bo-calenda-",
+				"assets/frontend/main/directives/bo-calendar/bo-calendar-form/bo-calendar-form.js"
+			],
+			[
+				"abstract",
+				"assets/frontend/main/services/infrastructure/AbstractContentProvider.js"
+			],
+			[
+				"product-",
+				"assets/frontend/main/modules/reports/r1/product-traffic/product-traffic.js"
+			],
+			[
+				"campaigns-renta",
+				"assets/frontend/main/modules/reports/r4/campaigns-rentability/campaigns-rentability.js"
+			],
+			[
+				"renta",
+				"assets/frontend/main/directives/charts/r4/rentability-bubble-chart/rentability-bubble-chart.js"
+			],
+			[
+				"calendar-select",
+				"assets/frontend/main/directives/bo-calendar/bo-calendar-selector/bo-calendar-selector.js"
+			],
+			[
+				"campaing-re",
+				"assets/frontend/main/services/reports/r4/campaigns-rentability.js"
+			],
+			[
+				"naviga",
+				"app/frontend/directives/navigation/navigation.js"
+			],
+			[
+				"bo-calenda",
+				"assets/frontend/main/directives/bo-calendar/bo-calendar-modal.js"
+			],
+			[
+				"bo-calendar-select",
+				"assets/frontend/main/directives/bo-calendar/bo-calendar-selector/bo-calendar-selector.js"
+			],
+			[
+				"reportbuild",
+				"assets/frontend/main/services/reportsBuilderService.js"
+			],
+			[
+				"campaigns-rent",
+				"assets/frontend/main/services/reports/r4/campaigns-rentability.js"
+			],
+			[
+				"legend",
+				"assets/frontend/main/directives/legend/legend.js"
+			],
+			[
+				"rentability-",
+				"assets/frontend/main/directives/charts/r4/rentability-bubble-chart/rentability-bubble-chart.js"
+			],
+			[
+				"campaigns-re",
+				"assets/frontend/main/modules/reports/r4/campaigns-rentability/campaigns-rentability.html"
+			],
+			[
+				"dash",
+				"assets/less/dashboard.less"
+			],
+			[
+				"time-cha",
+				"assets/frontend/main/directives/charts/shared-charts/timeline-chart.js"
+			],
+			[
+				"time-ca",
+				"assets/less/time-chart.less"
+			],
+			[
+				"oauth",
+				"assets/frontend/main/services/infrastructure/OauthHttpModel.js"
+			],
+			[
+				"oauthba",
+				"assets/frontend/main/services/infrastructure/oauthBackofficeModel.js"
+			],
+			[
+				"sales-by",
+				"assets/frontend/main/services/reports/r4/sales-by-traffic.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 438.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/work/Southwestern/Southwestern.sublime-project"
+			]
+		],
+		"width": 333.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 284.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

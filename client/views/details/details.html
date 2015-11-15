@@ -1,0 +1,89 @@
+<template name="details">
+	<h2 style="margin-bottom: 60px">Report: {{report.name}}</h2>
+
+	<h5 style="margin: 40px 0;">Step 1: Multiply criterion importance and estimation for each task:</h5>
+	<table class="bordered">
+		<thead>
+      <th style="padding: 0 10px">Task</th>
+      {{#each positiveCriteria}}
+        <th>{{name}}</th>
+      {{/each}}
+      {{#each negativeCriteria}}
+        <th>{{name}}</th>
+      {{/each}}
+    </thead>
+      <tbody>
+        {{#each stepOneReport}}
+          <tr>
+            <td>{{name}}</td>
+            {{#each posCriteria}}
+              <td style="padding: 10px;">
+                {{value}}
+              </td>
+            {{/each}}
+            {{#each negCriteria}}
+              <td style="padding: 10px;">
+                {{value}}
+              </td>
+            {{/each}}
+          </tr>
+        {{/each}}
+      </tbody>
+	</table>
+
+	<h5 style="margin: 40px 0;">Step 2: Summarize negative/positive values per each task:</h5>
+	<table class="bordered">
+		<thead>
+			<th>Task</th>
+			<th>Positive sum</th>
+			<th>Negative sum</th>
+		</thead>
+		<tbody>
+			{{#each stepTwoReport}}
+				<tr>
+					<td>{{name}}</td>
+					<td>{{posSumm}}</td>
+					<td>{{negSumm}}</td>
+				</tr>
+			{{/each}}
+		</tbody>
+	</table>
+
+	<h5 style="margin: 40px 0;">Step 3: Set negative/positive places for each task:</h5>
+	<table class="bordered">
+		<thead>
+			<th>Task</th>
+			<th>Positive places</th>
+			<th>Negative places</th>
+		</thead>
+		<tbody>
+			{{#each stepThreeReport}}
+				<tr>
+					<td>{{name}}</td>
+					<td>{{posPlace}}</td>
+					<td>{{negPlace}}</td>
+				</tr>
+			{{/each}}
+		</tbody>
+	</table>
+
+	<h5 style="margin: 40px 0;">Tasks leaderboard:</h5>
+	<table class="bordered">
+		<thead>
+			<th>Task</th>
+			<th>Place</th>
+			<th>Result summ</th>
+		</thead>
+		<tbody>
+			{{#each leaderboard}}
+				<tr>
+					<td>{{name}}</td>
+					<td>{{place}}</td>
+					<td>{{summ}}</td>
+				</tr>
+			{{/each}}
+		</tbody>
+	</table>
+
+	<div style="height: 400px;"></div>
+</template>

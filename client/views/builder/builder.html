@@ -1,0 +1,138 @@
+<template name="builder">
+  <div class="row">
+    
+    <!-- START CREATE REPORT -->
+    {{#if createState}}
+      <h2>Type a report name</h2>
+      <form method="POST" class="col s12" data-action="create-report" style="margin-top: 100px">
+        <div class="row valign-wrapper">
+          <div class="input-field col s12 valign">
+            <input id="report-name" name="report-name" type="text" value="{{name}}" placeholder="Report name" />
+            <label for="report-name">Report name</label>
+          </div>
+        </div>
+        <button class="btn waves-effect waves-light" type="submit">Submit
+          <i class="mdi mdi-send"></i>
+        </button>
+      </form>
+    {{/if}}
+    <!-- END CREATE REPORT -->
+  
+    <!-- START ADD TASKS-->
+    {{#if addTasksState}}
+      <h2>Add tasks:</h2>
+      <form method="POST" data-action="add-tasks" class="col s12" >
+        {{#each tasks}}
+          <div class="row valign-wrapper">
+            <div class="input-field col s12 valign">
+              <input id="{{id}}" value="{{name}}" type="text" />
+              <label for="{{id}}">Task name</label>
+            </div>
+            <a class="btn-floating waves-effect waves-light red" data-taskId="{{id}}" data-action="remove-task">
+              <i class="mdi mdi-close-circle"></i>
+            </a>
+          </div>
+        {{/each}}
+        <a class="waves-effect waves-light btn" data-action="add-task">Add task</a>
+        <button class="btn waves-effect waves-light" type="submit">Submit
+          <i class="mdi mdi-send"></i>
+        </button>
+      </form>
+    {{/if}}
+    <!-- END ADD TASKS-->
+
+    <!-- START ADD CRITERIA -->
+    {{#if addCriteriaState}}
+      <h2>Criteria</h2>
+      <form method="POST" data-action="add-criteria">
+        <div class="col s6" style="padding: 30px;">
+          <h3>Positive criteria:</h3>
+          {{#each positiveCriteria}}
+            <div class="row valign-wrapper">
+              <div class="input-field col s6 valign">
+                <input name="name-{{id}}" id="name-{{id}}" value="{{name}}" type="text" />
+                <label for="name-{{id}}">Positive criteria name</label>
+              </div>
+              <div class="input-field col s4">
+                <input name="value-{{id}}" id="value-{{id}}" value="{{value}}" type="text" />
+                <label for="value-{{id}}" class="active">Criteria importance (1-10)</label>
+              </div>
+              <a class="btn-floating waves-effect waves-light red" data-criteriaId="{{id}}" data-action="remove-criteria">
+                <i class="mdi mdi-close-circle"></i>
+              </a>
+            </div>
+          {{/each}}
+          <a class="waves-effect waves-light btn" data-action="add-positive-criteria">Add positive criteria</a>
+        </div>
+        <div class="col s6" style="padding: 30px;">
+          <h3>Negative criteria:</h3>
+          {{#each negativeCriteria}}
+            <div class="row valign-wrapper">
+              <div class="input-field col s6 valign">
+                <input name="name-{{id}}" id="name-{{id}}" value="{{name}}" type="text" />
+                <label for="name-{{id}}">Negatie criteira name</label>
+              </div>
+              <div class="input-field col s4">
+                <input name="value-{{id}}" id="value-{{id}}" value="{{value}}" type="text" />
+                <label for="value-{{id}}" class="active">Criteria importance (1-10)</label>
+              </div>
+              <a class="btn-floating waves-effect waves-light red" data-criteriaId="{{id}}" data-action="remove-criteria">
+                <i class="mdi mdi-close-circle"></i>
+              </a>
+            </div>
+          {{/each}}
+          <a class="waves-effect waves-light btn" data-action="add-negative-criteria">Add negative criteria</a>
+        </div>
+        <button class="btn waves-effect waves-light" type="submit" style="margin-top: 60px;">Submit
+          <i class="mdi mdi-send"></i>
+        </button>
+      </form>
+    {{/if}}
+    <!-- END ADD CRITERIA -->
+
+    <!-- START SET ESTIMATIONS -->
+    {{#if setEstimationsState}}
+      <h2>Set task/criteria estimations</h2>
+      <form data-action="set-estimations">
+        <table class="responsive-table bordered">
+          <thead>
+            <th style="padding: 0 10px">Tasks</th>
+            {{#each positiveCriteria}}
+              <th>{{name}}({{value}})</th>
+            {{/each}}
+            {{#each negativeCriteria}}
+              <th>{{name}}({{value}})</th>
+            {{/each}}
+          </thead>
+          <tbody>
+            {{#each estimations}}
+              <tr>
+                <td>{{name}}</td>
+                {{#each posCriteria}}
+                  <td style="padding: 10px;">
+                    <div class="input-field">
+                      <input name="{{id}}" id="{{id}}" type="text" value="0" />
+                    </div> 
+                  </td>
+                {{/each}}
+                {{#each negCriteria}}
+                  <td style="padding: 10px;">
+                    <div class="input-field">
+                      <input name="{{id}}" id="{{id}}" type="text" value="0" />
+                    </div> 
+                  </td>
+                {{/each}}
+              </tr>
+            {{/each}}
+          </tbody>
+        </table>
+        <button class="btn waves-effect waves-light" type="submit" style="margin-top: 60px;">Submit
+          <i class="mdi mdi-send"></i>
+        </button>
+      </form>
+    {{/if}}
+    <!-- END SET ESTIMATIONS -->
+
+
+  </div>
+</template>
